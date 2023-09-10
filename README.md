@@ -1,16 +1,20 @@
-### Hi there 👋
+<img align='right'  src="https://source.unsplash.com/random/600x100">
 
-<!--
-**Ranti-pwr/Ranti-pwr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there I'm Ranti and AndiJso 🍓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofiandi855@gmail.com)](mailto:sofiandi855@gmail.com)
+
+🚀Welcome to the rain planet🌎
+
+![houshuai github stats](https://source.unsplash.com/random/1300x500)
+
+
+📊 **Use Of My Time this Week**
+
+<img align='left'   width="400" src="https://github-readme-stats.vercel.app/api?username=ranti-pwr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+
+
+
+
+⭐️ From [Ranti-pwr](https://github.com/Ranti-pwr)
