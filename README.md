@@ -1,7 +1,7 @@
 <img align='right'  src="https://source.unsplash.com/random/600x100">
 
 
-# Ranti and Andijso <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# ⚡•Ranti-pwr•⚡ <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofiandi855@gmail.com)](mailto:sofiandi855@gmail.com)
 
