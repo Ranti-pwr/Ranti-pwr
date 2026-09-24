@@ -8,20 +8,5 @@
 
 👩‍💻 I'm currently working on studying
 
-🧠 I'm currently learning Tidak Ada
-
-👯‍♀️ I'm looking to collaborate on Tidak Ada
-
-🤔 I'm looking for help with Tidak Ada
-
-💬 Ask me about Tidak Ada
-
-📫 How to reach me Tidak Ada
-
-😄 Pronouns Tidak Ada
-
-⚡️ Fun fact Tidak Ada
-
-
 ⭐️ From [Ranti-pwr](https://github.com/Ranti-pwr)
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ranti-pwr)
